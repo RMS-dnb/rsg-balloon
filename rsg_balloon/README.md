@@ -1,5 +1,4 @@
-# wcrp_baloon
+Edit of wcrp_balloon
 
 
-Allows you to fly a player operated baloon, with WASD, controls a a bit wonky and camera sometimes, 
-but it applys force to move the baloon. Change Vdisc Cords in CLient Side to put prompt where you want it. Good for events and such
+Allows you to fly a player operated balloon, with WASD.  Modified controls have also been added making for a much easier flying experience
